@@ -1,0 +1,4 @@
+-chemical program
+-shape translator program
+-in the ch_17 folder, the matrix_3 program can be cleaned up and completed with problem 4 in ch 17
+
